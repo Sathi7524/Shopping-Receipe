@@ -34,7 +34,7 @@ Follow these steps to get the project up and running locally:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Sathi7524/Angular-project-udemy.git
+   git clone https://github.com/Sathi7524/Shopping-Receipe
 2. Navigate to the project directory:
    ```shell
    cd shopping/
