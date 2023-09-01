@@ -34,11 +34,12 @@ Follow these steps to get the project up and running locally:
    ```shell
    git clone https://github.com/Sathi7524/Angular-project-udemy.git
 2. Navigate to the project directory:
- cd angular/
-3. Install the dependencies:
-   npm install
-4. Start the development server:
-    ng serve
+   ```shell
+ cd shopping/
+4. Install the dependencies:
+     ```shell npm install
+5. Start the development server:
+      ```shell  ng serve
 The application will be available at http://localhost:4200. Open your browser and navigate to this URL.
 Usage
 Create a shopping list by adding items.
