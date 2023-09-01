@@ -1,6 +1,7 @@
 # Angular Shopping List and Recipe Manager
 
-[Receipe List](![image](https://github.com/Sathi7524/Angular-project-udemy/assets/75976657/215ac04e-0305-4aa6-8d14-765846ea41f5))
+![Project Screenshot](![image](https://github.com/Sathi7524/Angular-project-udemy/assets/75976657/1df25cca-d04a-4dbe-96c3-150dfc4a1cde)
+)
 
 ## Overview
 
